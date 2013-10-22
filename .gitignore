@@ -1,18 +1,22 @@
-# Object files
-*.o
-*.ko
-
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+bin
+build
+repos
+.classpath
+.project
+.settings
+.gradle
+.idea
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.bak
+*.iml
+*.ipr
+*.iws
+rebel.xml
+*.sublime-workspace
+*.DS_Store
+*.ini
+*~
